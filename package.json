@@ -1,9 +1,9 @@
 {
   "name": "com.crnl.hibop_utilities",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "displayName": "HiBoP Utilities",
   "description": "Utilities for HiBoP Development.",
-  "unity": "6000.0",
+  "unity": "6000.5",
   "author": {
     "name": "Benjamin BONTEMPS",
     "email": "benjamin.bontemps@inserm.fr"
